@@ -12,7 +12,14 @@
 
 <h3> Skills </h3>
 
-My skills include computational math (symbolic and numeric), probability and statistics (I implemented some statistical distributions and Markov processes for <i>Mathematica</i>), data science (data analysis, machine learning), data structures and algorithms, functional and object-oriented programming, and physics.
+My skills include:
+- computational math (symbolic and numeric), 
+- special functions (I implemented harmonic polylogarithms and multiple zeta values for <i>Mathematica</i>), 
+- probability and statistics (I implemented some statistical distributions and Markov processes for <i>Mathematica</i>), 
+- data science (data analysis, machine learning), 
+- data structures and algorithms, 
+- functional and object-oriented programming, 
+- and physics.
 
 <h3> Hobbies and Interests </h3>
 
