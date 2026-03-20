@@ -2,7 +2,7 @@
 
 - Thanks for popping by! I'm a software engineer at Wolfram Research. I test <i>Mathematica</i>'s functionality for machine learning, symbolic computation, special functions and data paclets (<i>Mathematica</i>'s binary-encoded curated updatable datasets). I previously also tested the functionality for geometry and graph theory.
 - I used to [code for TI calculators](http://www.technicalc.org/bbhatt/) in my college years.
-- I am a proactive self-starter and largely self-motivated but I really enjoy working as part of a team. I am logical, creative and good at problem-solving, and I quickly pick up knowledge from diverse fields as relevant to a project. My current learning goals include PyTorch, GIS, MCMC and other samplers, Bayesian inference, 
+- I am a proactive self-starter and largely self-motivated but I really enjoy working as part of a team. I am logical, creative and good at problem-solving, and I quickly pick up knowledge from diverse fields as relevant to a project. 
 - I welcome you to join me on my learning journey! Feel free to follow me on [Medium](https://bhuvaneshbhatt.medium.com) or on [LinkedIn](https://linkedin.com/in/polylogs) to stay in the loop of exciting and insightful content.
 - Do give my data science portfolio a look, and don't hesitate to contact me for a discussion on topics common to both of us!
 
