@@ -4,7 +4,7 @@
 - I used to [code for TI calculators](http://www.technicalc.org/bbhatt/) in my college years.
 - I am a proactive self-starter and largely self-motivated but I really enjoy working as part of a team. I am logical, creative and good at problem-solving, and I quickly pick up knowledge from diverse fields as relevant to a project. 
 - I welcome you to join me on my learning journey! Feel free to follow me on [Medium](https://bhuvaneshbhatt.medium.com) or on [LinkedIn](https://linkedin.com/in/polylogs) to stay in the loop of exciting and insightful content.
-- Do give my data science portfolio a look, and don't hesitate to contact me for a discussion on topics common to both of us!
+- Do give my data science and scientific computing portfolio a look, and don't hesitate to contact me for a discussion on topics we have in common!
 
 "The task is not so much to see what no one has yet seen, but rather to think what no one has yet thought, about that which everyone sees." – Erwin Schrödinger
 
@@ -16,14 +16,14 @@ My skills include:
 - computational math (symbolic and numeric), 
 - special functions (I implemented harmonic polylogarithms and multiple zeta values for <i>Mathematica</i>), 
 - probability and statistics (I implemented some statistical distributions and Markov processes for <i>Mathematica</i>), 
-- data science (data analysis, machine learning), 
+- data science (data analysis, machine learning, neural networks including LLMs), 
 - data structures and algorithms, 
 - functional and object-oriented programming, 
 - and physics.
 
 <h3> Hobbies and Interests </h3>
 
-My hobbies and interests include playing board games, reading, listening to music, practising music, photography, hiking, biking, camping, stargazing. In the past, I've volunteered for Austin Wildlife Rescue and Refugee Services of Texas; both causes are very dear to me.
+My hobbies and interests include playing board games, reading, listening to music, practising music, photography, hiking, biking, camping, and stargazing. In the past, I've volunteered for Austin Wildlife Rescue and Refugee Services of Texas; both causes are very dear to me.
 
 <h3> How to reach me </h3>
 <div>
